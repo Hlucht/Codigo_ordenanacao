@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1659637154 source:c:\users\heloisa luchtemberg\documents\connect\algoritmo\aula10\exe10\main.c
+	<stdio.h>
+	<stdlib.h>
+
